@@ -1,0 +1,23 @@
+1)
+
+a)/index.txt
+- Content-Type: text/plain
+- Content-Length: 14
+- Server: nginx/1.2.2
+
+b)/images/web_technologies.png
+- Content-Type: image/png 
+- Content-Length: 335525
+- Server: nginx/1.2.2
+
+c)/media/Water.mp4
+- Content-Type: application/octet-stream
+- Content-Length: 1137202
+- Server: nginx/1.2.2
+
+2)
+
+a) 
+- Request URL: http://localhost/lw1/mysql_is_a_database_server.html
+- Status Code: 404 Not Found
+Ошибка 404 - файл не найден. Решение: добавить файл на сервер
