@@ -21,3 +21,11 @@ a)
 - Request URL: http://localhost/lw1/mysql_is_a_database_server.html
 - Status Code: 404 Not Found
 Ошибка 404 - файл не найден. Решение: добавить файл на сервер
+
+b)
+- Request URL: http://localhost/lw1/nginx_is_fast_http_server.txt
+- Status Code: 200 OK
+Статус 200 - запрос выполнен успешно
+
+c)
+- 
