@@ -28,4 +28,12 @@ b)
 Статус 200 - запрос выполнен успешно
 
 c)
-- 
+- Request URL: http://localhost/lw1/php_is_a_server_scripting_language.php
+- Status Code: 302 Found
+Ресурс отсутствует временно (запрошенный ресурс временно находится под другим URL).
+
+d) 
+- Request URL: http://localhost/lw1/javascript_is_a_client_side_language.php?how_to_work=hardly
+- Status Code: 400 Bad Request
+Некорректный запрос.
+Код ошибки. Изменить запрос на how_to_work=hard.
