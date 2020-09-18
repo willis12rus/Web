@@ -1,0 +1,13 @@
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\obj\Debug\netcoreapp3.1\RemoveExtraBlanks.csprojAssemblyReference.cache
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\obj\Debug\netcoreapp3.1\RemoveExtraBlanks.AssemblyInfoInputs.cache
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\obj\Debug\netcoreapp3.1\RemoveExtraBlanks.AssemblyInfo.cs
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\obj\Debug\netcoreapp3.1\RemoveExtraBlanks.csproj.CoreCompileInputs.cache
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\bin\Debug\netcoreapp3.1\RemoveExtraBlanks.exe
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\bin\Debug\netcoreapp3.1\RemoveExtraBlanks.deps.json
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\bin\Debug\netcoreapp3.1\RemoveExtraBlanks.runtimeconfig.json
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\bin\Debug\netcoreapp3.1\RemoveExtraBlanks.runtimeconfig.dev.json
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\bin\Debug\netcoreapp3.1\RemoveExtraBlanks.dll
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\bin\Debug\netcoreapp3.1\RemoveExtraBlanks.pdb
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\obj\Debug\netcoreapp3.1\RemoveExtraBlanks.dll
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\obj\Debug\netcoreapp3.1\RemoveExtraBlanks.pdb
+D:\Web\Web\lab3\RemoveExtraBlanks\RemoveExtraBlanks\obj\Debug\netcoreapp3.1\RemoveExtraBlanks.genruntimeconfig.cache

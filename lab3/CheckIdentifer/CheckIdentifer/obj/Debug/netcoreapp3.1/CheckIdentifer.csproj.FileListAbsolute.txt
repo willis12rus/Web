@@ -1,0 +1,13 @@
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\bin\Debug\netcoreapp3.1\CheckIdentifer.exe
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\bin\Debug\netcoreapp3.1\CheckIdentifer.deps.json
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\bin\Debug\netcoreapp3.1\CheckIdentifer.runtimeconfig.json
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\bin\Debug\netcoreapp3.1\CheckIdentifer.runtimeconfig.dev.json
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\bin\Debug\netcoreapp3.1\CheckIdentifer.dll
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\bin\Debug\netcoreapp3.1\CheckIdentifer.pdb
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\obj\Debug\netcoreapp3.1\CheckIdentifer.csprojAssemblyReference.cache
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\obj\Debug\netcoreapp3.1\CheckIdentifer.AssemblyInfoInputs.cache
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\obj\Debug\netcoreapp3.1\CheckIdentifer.AssemblyInfo.cs
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\obj\Debug\netcoreapp3.1\CheckIdentifer.csproj.CoreCompileInputs.cache
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\obj\Debug\netcoreapp3.1\CheckIdentifer.dll
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\obj\Debug\netcoreapp3.1\CheckIdentifer.pdb
+D:\Web\Web\lab3\CheckIdentifer\CheckIdentifer\obj\Debug\netcoreapp3.1\CheckIdentifer.genruntimeconfig.cache
